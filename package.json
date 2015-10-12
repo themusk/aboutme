@@ -1,0 +1,10 @@
+{
+  "name": "aboutme",
+  "description": "aboue me basic webpage",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
+  }
+}
